@@ -58,10 +58,10 @@ html{
  z-index: -1;
  opacity: 2.5;
  margin-bottom: 5px;
- background: url('https://wallpapercave.com/wp/wp4110653.jpg')  no-repeat center center/cover;
+ background: url('https://img.indiafilings.com/learn/wp-content/uploads/2015/10/12011006/Real-Estate-Agent-Business-India.jpg')  no-repeat center center/cover;
 }
 h2{
-    color:rgb(245, 236, 236);
+    color:rgb(0, 0, 0);
 }
 #Buyer::before{
 content: "";
@@ -88,8 +88,8 @@ content: "";
      left:0px;
      top:2px;
      z-index: -1;
-     opacity: 1.5;
-     background: url('../real-estate/Images/buy.jpg');
+     opacity: 2.5;
+     background: url('https://www.rexhomes.com/assets/images/home-page/hero-left.svg')  no-repeat center center/cover;
     
 }
 #Buyer-Reg h3{
@@ -188,6 +188,7 @@ content: "";
     z-index: -1;
     opacity: 2.5;
     margin-bottom: 5px;
+    color:yellow;
     background: url('../real-estate/Images/Riverside.jpg');
 
 }

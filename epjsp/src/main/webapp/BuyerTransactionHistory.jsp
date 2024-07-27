@@ -73,6 +73,7 @@
 		      <li ><a href="AgentLogin.jsp">Agent</a></li>
 		      <li><a href="SellerLR.jsp">Seller</a></li>
 		      <!-- <li><a href="EmployeeLogin.jsp">Employee</a></li> -->
+		      <li><a href="contact.jsp">ContactUs</a></li>
 		      <li><a href="Logout.jsp">Logout</a></li>
 		      
 

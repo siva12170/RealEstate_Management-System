@@ -30,6 +30,22 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+    <style>
+        body {
+            background: url('https://www.reminetwork.com/wp-content/uploads/businessman.jpg') no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        .navbar {
+            margin-bottom: 70px;
+            border-radius: 0;
+        }
+
+        #Buyer-Home {
+            padding: 60px;
+            border-radius: 10px;
+        }
+    </style>
 </head>  
 <body>  
     <nav class="navbar navbar-inverse navbar-fixed-top">
